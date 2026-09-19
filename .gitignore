@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+chroma_db/
+.env
+*.env
+EDU-AI_FINAL_THESIS.pdf
